@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public class Weight_Watchers {
 
-	  static String str="D:///Org - New York/Weight Watcher/FileExistsOrNot.txt";
+	  static String str="src/weightWatchers/FileExistsOrNot.txt";
 	  static File fileExistsOrNot=new File(str);
 	 public  static void doesFileExist(String path) throws IOException
 	{
